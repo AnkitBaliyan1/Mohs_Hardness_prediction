@@ -23,3 +23,6 @@
 - A notable aspect of my process was the application of Standard Scaler for feature scaling. This decision was influenced by the observation that the models were yielding higher errors with Min-Max Scaler, highlighting my iterative and adaptive approach to optimizing model performance.
 
 Throughout the notebook, I covered an extensive range of techniques and methodologies in data analysis and machine learning. From initial data handling to the detailed implementation and evaluation of various models, my approach was thorough and considerate of the nuances in each step of the process.
+
+
+! [Kagele Link](https://www.kaggle.com/abaliyan/mohs-hardness-s3e25-version-1)
