@@ -25,4 +25,4 @@
 Throughout the notebook, I covered an extensive range of techniques and methodologies in data analysis and machine learning. From initial data handling to the detailed implementation and evaluation of various models, my approach was thorough and considerate of the nuances in each step of the process.
 
 
-! [Kagele Link](https://www.kaggle.com/abaliyan/mohs-hardness-s3e25-version-1)
+[Kagele Link](https://www.kaggle.com/abaliyan/mohs-hardness-s3e25-version-1)
